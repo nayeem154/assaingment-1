@@ -5,8 +5,8 @@ body{
 }
 .d-flex{
     display: flex;
-    margin-bottom: 100px;
-   
+    margin-bottom: 80px;
+   padding-top: 5px;
  
 }
 #hfont{font-size: 50px;}
@@ -45,7 +45,7 @@ body{
 
 .aclink2{
     text-decoration: none;
-    background-image: linear-gradient(rgb(241, 35, 20), rgb(238, 200, 96));
+    background-image: linear-gradient(rgb(60, 235, 44), rgb(130, 196, 212));
    font-weight: 700;
    border-radius: 10px;
    padding: 10px 10px; 
@@ -63,7 +63,6 @@ text-align:center;
 font-family: 'Courier New', Courier, monospace;
 padding-left: 300px;
 padding-right: 300px;
-margin: ;
 }
 .gg{
     margin-top: 30px;
@@ -71,7 +70,7 @@ margin: ;
     padding: 10px 10px;
     margin-left: 20px;
     border-radius: 10px;
-    box-shadow: 5px 5px 40px 5px rgb(3, 2, 3);
+    box-shadow: 5px 5px 10px 10px #ddd;
     border: 10px solid white;
 
 
@@ -82,7 +81,7 @@ margin: ;
     display: flex;
    margin-left: 300px;
     padding: 10px;
-    box-shadow: 1px 1px 30px 1px rgb(29, 27, 27);
+    box-shadow: 1px 1px 30px 1px rgb(107, 101, 101);
     width: 700px;
     border-radius: 10px;
 }
@@ -95,14 +94,22 @@ margin-left: 120px;
 }
 .foot{ text-align: center;
 margin-top: 50px;
-background-color: rgb(159, 163, 153);
+background-color: rgb(128, 161, 184);
 padding-bottom: 20px;
 }
 #lsp{
-    color: tomato;
+    color: orange;
 }
 .foot small{
-  
+  font-size: 15px;
   color: white;
   
+}
+#hfont2{
+    font-size: 50px;
+    color: rgb(194, 3, 252);
+}
+
+#mrc{
+    color: rgb(44, 8, 245);
 }
