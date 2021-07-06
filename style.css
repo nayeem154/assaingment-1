@@ -1,11 +1,13 @@
 body{
     font-family:  'Poppins', sans-serif;
     margin: 0;
+
 }
 .d-flex{
     display: flex;
-    margin-bottom: 150px;
-
+    margin-bottom: 100px;
+   
+ 
 }
 #hfont{font-size: 50px;}
 
@@ -17,8 +19,9 @@ body{
 .div-class{
     width: 40%;
     padding-left: 5%;
-    padding-right: 10%;
+    padding-right: 5%;
 }
+
 .div-class img{
     width: 100%;
 }
@@ -28,6 +31,7 @@ body{
    font-weight: 700;
    border-radius: 10px;
    padding: 10px 10px;
+   color: white;
 }
 
 .bannar{
@@ -35,14 +39,17 @@ body{
     background-size: cover;
     height:480px;
     padding-top: 50px;
+    width: 100%;
+    display: flex;
 }
 
 .aclink2{
     text-decoration: none;
-    background-image: linear-gradient(rgb(248, 83, 6), rgb(138, 7, 245));
+    background-image: linear-gradient(rgb(241, 35, 20), rgb(238, 200, 96));
    font-weight: 700;
    border-radius: 10px;
    padding: 10px 10px; 
+   color: white;
 }
 
 .rec{
@@ -60,9 +67,9 @@ margin: ;
 }
 .gg{
     margin-top: 30px;
-    width: 200px;
+    width: 250px;
     padding: 10px 10px;
-    margin-left: 40px;
+    margin-left: 20px;
     border-radius: 10px;
     box-shadow: 5px 5px 40px 5px rgb(3, 2, 3);
     border: 10px solid white;
@@ -87,8 +94,8 @@ margin-left: 120px;
     margin-left: 120px;
 }
 .foot{ text-align: center;
-margin-top: 100px;
-background-color: yellowgreen;
+margin-top: 50px;
+background-color: rgb(159, 163, 153);
 padding-bottom: 20px;
 }
 #lsp{
@@ -97,4 +104,5 @@ padding-bottom: 20px;
 .foot small{
   
   color: white;
+  
 }
