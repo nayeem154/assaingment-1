@@ -1,0 +1,100 @@
+body{
+    font-family:  'Poppins', sans-serif;
+    margin: 0;
+}
+.d-flex{
+    display: flex;
+    margin-bottom: 150px;
+
+}
+#hfont{font-size: 50px;}
+
+
+
+#td{
+    color: rgb(98, 0, 255);
+}
+.div-class{
+    width: 40%;
+    padding-left: 5%;
+    padding-right: 10%;
+}
+.div-class img{
+    width: 100%;
+}
+.aclink{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(84, 238, 143), rgb(16, 200, 233));
+   font-weight: 700;
+   border-radius: 10px;
+   padding: 10px 10px;
+}
+
+.bannar{
+    background-image: url(frame/frame2.jpg);
+    background-size: cover;
+    height:480px;
+    padding-top: 50px;
+}
+
+.aclink2{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(248, 83, 6), rgb(138, 7, 245));
+   font-weight: 700;
+   border-radius: 10px;
+   padding: 10px 10px; 
+}
+
+.rec{
+text-align: center;
+
+
+}
+
+.pad{
+text-align:center;
+font-family: 'Courier New', Courier, monospace;
+padding-left: 300px;
+padding-right: 300px;
+margin: ;
+}
+.gg{
+    margin-top: 30px;
+    width: 200px;
+    padding: 10px 10px;
+    margin-left: 40px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 40px 5px rgb(3, 2, 3);
+    border: 10px solid white;
+
+
+}
+
+.fan{
+    margin-top: 100px;
+    display: flex;
+   margin-left: 300px;
+    padding: 10px;
+    box-shadow: 1px 1px 30px 1px rgb(29, 27, 27);
+    width: 700px;
+    border-radius: 10px;
+}
+.fan h2{
+margin-left: 120px;
+}
+
+.fan small{
+    margin-left: 120px;
+}
+.foot{ text-align: center;
+margin-top: 100px;
+background-color: yellowgreen;
+padding-bottom: 20px;
+}
+#lsp{
+    color: tomato;
+}
+.foot small{
+  
+  color: white;
+}
